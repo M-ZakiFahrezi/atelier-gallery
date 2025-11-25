@@ -1,0 +1,202 @@
+[
+    {
+        "id_seniman": 1,
+        "nama_seniman": "Leonardo da Vinci",
+        "file": "seniman-01.jpg"
+    },
+    {
+        "id_seniman": 2,
+        "nama_seniman": "Frida Kahlo",
+        "file": "seniman-02.jpg"
+    },
+    {
+        "id_seniman": 3,
+        "nama_seniman": "Pablo Picasso",
+        "file": "seniman-03.jpg"
+    },
+    {
+        "id_seniman": 4,
+        "nama_seniman": "Yayoi Kusama",
+        "file": "seniman-04.jpg"
+    },
+    {
+        "id_seniman": 5,
+        "nama_seniman": "Ai Weiwei",
+        "file": "seniman-05.jpg"
+    },
+    {
+        "id_seniman": 6,
+        "nama_seniman": "Cindy Sherman",
+        "file": "seniman-06.jpg"
+    },
+    {
+        "id_seniman": 7,
+        "nama_seniman": "Beeple (Mike Winkelmann)",
+        "file": "seniman-07.jpg"
+    },
+    {
+        "id_seniman": 8,
+        "nama_seniman": "El Anatsui",
+        "file": "seniman-08.jpg"
+    },
+    {
+        "id_seniman": 9,
+        "nama_seniman": "Marina Abramović",
+        "file": "seniman-09.jpg"
+    },
+    {
+        "id_seniman": 10,
+        "nama_seniman": "Affandi",
+        "file": "seniman-10.jpg"
+    },
+    {
+        "id_seniman": 11,
+        "nama_seniman": "Georgia O’Keeffe",
+        "file": "seniman-11.jpg"
+    },
+    {
+        "id_seniman": 12,
+        "nama_seniman": "Henri Matisse",
+        "file": "seniman-12.jpg"
+    },
+    {
+        "id_seniman": 13,
+        "nama_seniman": "Barbara Hepworth",
+        "file": "seniman-13.jpg"
+    },
+    {
+        "id_seniman": 14,
+        "nama_seniman": "James Turrell",
+        "file": "seniman-14.jpg"
+    },
+    {
+        "id_seniman": 15,
+        "nama_seniman": "Raden Saleh",
+        "file": "seniman-15.jpg"
+    },
+    {
+        "id_seniman": 16,
+        "nama_seniman": "Takashi Murakami",
+        "file": "seniman-16.jpg"
+    },
+    {
+        "id_seniman": 17,
+        "nama_seniman": "Bill Viola",
+        "file": "seniman-17.jpg"
+    },
+    {
+        "id_seniman": 18,
+        "nama_seniman": "Bisa Butler",
+        "file": "seniman-18.jpg"
+    },
+    {
+        "id_seniman": 19,
+        "nama_seniman": "Nam June Paik",
+        "file": "seniman-19.jpg"
+    },
+    {
+        "id_seniman": 20,
+        "nama_seniman": "Eko Nugroho",
+        "file": "seniman-20.jpg"
+    },
+    {
+        "id_seniman": 21,
+        "nama_seniman": "Jean-Michel Basquiat",
+        "file": "seniman-21.jpg"
+    },
+    {
+        "id_seniman": 22,
+        "nama_seniman": "Gustav Klimt",
+        "file": "seniman-22.jpg"
+    },
+    {
+        "id_seniman": 23,
+        "nama_seniman": "Auguste Rodin",
+        "file": "seniman-23.jpg"
+    },
+    {
+        "id_seniman": 24,
+        "nama_seniman": "Louise Bourgeois",
+        "file": "seniman-24.jpg"
+    },
+    {
+        "id_seniman": 25,
+        "nama_seniman": "Annie Leibovitz",
+        "file": "seniman-25.jpg"
+    },
+    {
+        "id_seniman": 26,
+        "nama_seniman": "Sebastião Salgado",
+        "file": "seniman-26.jpg"
+    },
+    {
+        "id_seniman": 27,
+        "nama_seniman": "Pak (Murat Pak)",
+        "file": "seniman-27.jpg"
+    },
+    {
+        "id_seniman": 28,
+        "nama_seniman": "Krista Kim",
+        "file": "seniman-28.jpg"
+    },
+    {
+        "id_seniman": 29,
+        "nama_seniman": "Faith Ringgold",
+        "file": "seniman-29.jpg"
+    },
+    {
+        "id_seniman": 30,
+        "nama_seniman": "Sheila Hicks",
+        "file": "seniman-30.jpg"
+    },
+    {
+        "id_seniman": 31,
+        "nama_seniman": "Laurie Anderson",
+        "file": "seniman-31.jpg"
+    },
+    {
+        "id_seniman": 32,
+        "nama_seniman": "Tino Sehgal",
+        "file": "seniman-32.jpg"
+    },
+    {
+        "id_seniman": 33,
+        "nama_seniman": "Claude Monet",
+        "file": "seniman-33.jpg"
+    },
+    {
+        "id_seniman": 34,
+        "nama_seniman": "Constantin Brâncuși",
+        "file": "seniman-34.jpg"
+    },
+    {
+        "id_seniman": 35,
+        "nama_seniman": "Man Ray",
+        "file": "seniman-35.jpg"
+    },
+    {
+        "id_seniman": 36,
+        "nama_seniman": "Refik Anadol",
+        "file": "seniman-36.jpg"
+    },
+    {
+        "id_seniman": 37,
+        "nama_seniman": "Nick Cave",
+        "file": "seniman-37.jpg"
+    },
+    {
+        "id_seniman": 38,
+        "nama_seniman": "Tehching Hsieh",
+        "file": "seniman-38.jpg"
+    },
+    {
+        "id_seniman": 39,
+        "nama_seniman": "Helen Frankenthaler",
+        "file": "seniman-39.jpg"
+    },
+    {
+        "id_seniman": 40,
+        "nama_seniman": "Rachel Whiteread",
+        "file": "seniman-40.jpg"
+    }
+]

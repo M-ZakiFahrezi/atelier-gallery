@@ -1,0 +1,52 @@
+[
+    {
+        "id_galeri": 1,
+        "nama_galeri": "The Louvre",
+        "file": "gallery-01.jpg"
+    },
+    {
+        "id_galeri": 2,
+        "nama_galeri": "The Museum of Modern Art (MoMA)",
+        "file": "gallery-02.jpg"
+    },
+    {
+        "id_galeri": 3,
+        "nama_galeri": "Uffizi Gallery",
+        "file": "gallery-03.jpg"
+    },
+    {
+        "id_galeri": 4,
+        "nama_galeri": "Tate Modern",
+        "file": "gallery-04.jpg"
+    },
+    {
+        "id_galeri": 5,
+        "nama_galeri": "National Gallery of Indonesia",
+        "file": "gallery-05.jpg"
+    },
+    {
+        "id_galeri": 6,
+        "nama_galeri": "Prado Museum",
+        "file": "gallery-06.jpg"
+    },
+    {
+        "id_galeri": 7,
+        "nama_galeri": "Rijksmuseum",
+        "file": "gallery-07.jpg"
+    },
+    {
+        "id_galeri": 8,
+        "nama_galeri": "Hermitage Museum",
+        "file": "gallery-08.jpg"
+    },
+    {
+        "id_galeri": 9,
+        "nama_galeri": "Art Institute of Chicago",
+        "file": "gallery-09.jpg"
+    },
+    {
+        "id_galeri": 10,
+        "nama_galeri": "Galleria Borghese",
+        "file": "gallery-10.jpg"
+    }
+]

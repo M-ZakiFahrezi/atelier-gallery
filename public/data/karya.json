@@ -1,0 +1,1002 @@
+[
+    {
+        "id_karya": 1,
+        "judul_karya": "Mona Lisa",
+        "file": "images/asset/karyaSeni/karya-001.jpg"
+    },
+    {
+        "id_karya": 2,
+        "judul_karya": "The Last Supper",
+        "file": "images/asset/karyaSeni/karya-002.jpg"
+    },
+    {
+        "id_karya": 3,
+        "judul_karya": "The Two Fridas",
+        "file": "images/asset/karyaSeni/karya-003.jpg"
+    },
+    {
+        "id_karya": 4,
+        "judul_karya": "Self-Portrait with Thorn Necklace and Hummingbird",
+        "file": "images/asset/karyaSeni/karya-004.jpg"
+    },
+    {
+        "id_karya": 5,
+        "judul_karya": "Guernica",
+        "file": "images/asset/karyaSeni/karya-005.jpg"
+    },
+    {
+        "id_karya": 6,
+        "judul_karya": "Weeping Woman",
+        "file": "images/asset/karyaSeni/karya-006.jpg"
+    },
+    {
+        "id_karya": 7,
+        "judul_karya": "Infinity Mirror Room – Phalli’s Field",
+        "file": "images/asset/karyaSeni/karya-007.jpg"
+    },
+    {
+        "id_karya": 8,
+        "judul_karya": "Pumpkin",
+        "file": "images/asset/karyaSeni/karya-008.jpg"
+    },
+    {
+        "id_karya": 9,
+        "judul_karya": "Sunflower Seeds",
+        "file": "images/asset/karyaSeni/karya-009.jpg"
+    },
+    {
+        "id_karya": 10,
+        "judul_karya": "Dropping a Han Dynasty Urn",
+        "file": "images/asset/karyaSeni/karya-010.jpg"
+    },
+    {
+        "id_karya": 11,
+        "judul_karya": "Untitled Film Still #21",
+        "file": "images/asset/karyaSeni/karya-011.jpg"
+    },
+    {
+        "id_karya": 12,
+        "judul_karya": "Untitled #96",
+        "file": "images/asset/karyaSeni/karya-012.jpg"
+    },
+    {
+        "id_karya": 13,
+        "judul_karya": "Everydays: The First 5000 Days",
+        "file": "images/asset/karyaSeni/karya-013.jpg"
+    },
+    {
+        "id_karya": 14,
+        "judul_karya": "Human One",
+        "file": "images/asset/karyaSeni/karya-014.jpg"
+    },
+    {
+        "id_karya": 15,
+        "judul_karya": "Earth Developing More Roots",
+        "file": "images/asset/karyaSeni/karya-015.jpg"
+    },
+    {
+        "id_karya": 16,
+        "judul_karya": "Man’s Cloth",
+        "file": "images/asset/karyaSeni/karya-016.jpg"
+    },
+    {
+        "id_karya": 17,
+        "judul_karya": "The Artist Is Present",
+        "file": "images/asset/karyaSeni/karya-017.jpg"
+    },
+    {
+        "id_karya": 18,
+        "judul_karya": "Rhythm 0",
+        "file": "images/asset/karyaSeni/karya-018.jpg"
+    },
+    {
+        "id_karya": 19,
+        "judul_karya": "Potret Diri",
+        "file": "images/asset/karyaSeni/karya-019.jpg"
+    },
+    {
+        "id_karya": 20,
+        "judul_karya": "Bali Life",
+        "file": "images/asset/karyaSeni/karya-020.jpg"
+    },
+    {
+        "id_karya": 21,
+        "judul_karya": "Red Canna",
+        "file": "images/asset/karyaSeni/karya-021.jpg"
+    },
+    {
+        "id_karya": 22,
+        "judul_karya": "Jimson Weed/White Flower No.1",
+        "file": "images/asset/karyaSeni/karya-022.jpg"
+    },
+    {
+        "id_karya": 23,
+        "judul_karya": "The Dance",
+        "file": "images/asset/karyaSeni/karya-023.jpg"
+    },
+    {
+        "id_karya": 24,
+        "judul_karya": "Woman with a Hat",
+        "file": "images/asset/karyaSeni/karya-024.jpg"
+    },
+    {
+        "id_karya": 25,
+        "judul_karya": "Oval Sculpture",
+        "file": "images/asset/karyaSeni/karya-025.jpg"
+    },
+    {
+        "id_karya": 26,
+        "judul_karya": "Two Forms",
+        "file": "images/asset/karyaSeni/karya-026.jpg"
+    },
+    {
+        "id_karya": 27,
+        "judul_karya": "Roden Crater Project",
+        "file": "images/asset/karyaSeni/karya-027.jpg"
+    },
+    {
+        "id_karya": 28,
+        "judul_karya": "Afrum I",
+        "file": "images/asset/karyaSeni/karya-028.jpg"
+    },
+    {
+        "id_karya": 29,
+        "judul_karya": "The Arrest of Pangeran Diponegoro",
+        "file": "images/asset/karyaSeni/karya-029.jpg"
+    },
+    {
+        "id_karya": 30,
+        "judul_karya": "Hunting Deer",
+        "file": "images/asset/karyaSeni/karya-030.jpg"
+    },
+    {
+        "id_karya": 31,
+        "judul_karya": "727",
+        "file": "images/asset/karyaSeni/karya-031.jpg"
+    },
+    {
+        "id_karya": 32,
+        "judul_karya": "Flower Ball",
+        "file": "images/asset/karyaSeni/karya-032.jpg"
+    },
+    {
+        "id_karya": 33,
+        "judul_karya": "The Greeting",
+        "file": "images/asset/karyaSeni/karya-033.jpg"
+    },
+    {
+        "id_karya": 34,
+        "judul_karya": "Ascension",
+        "file": "images/asset/karyaSeni/karya-034.jpg"
+    },
+    {
+        "id_karya": 35,
+        "judul_karya": "The Safety Patrol",
+        "file": "images/asset/karyaSeni/karya-035.jpg"
+    },
+    {
+        "id_karya": 36,
+        "judul_karya": "The Warmth of Other Suns",
+        "file": "images/asset/karyaSeni/karya-036.jpg"
+    },
+    {
+        "id_karya": 37,
+        "judul_karya": "TV Buddha",
+        "file": "images/asset/karyaSeni/karya-037.jpg"
+    },
+    {
+        "id_karya": 38,
+        "judul_karya": "Electronic Superhighway",
+        "file": "images/asset/karyaSeni/karya-038.jpg"
+    },
+    {
+        "id_karya": 39,
+        "judul_karya": "Barong Attack",
+        "file": "images/asset/karyaSeni/karya-039.jpg"
+    },
+    {
+        "id_karya": 40,
+        "judul_karya": "Lotus Eyes",
+        "file": "images/asset/karyaSeni/karya-040.jpg"
+    },
+    {
+        "id_karya": 41,
+        "judul_karya": "Study of Horse Anatomy",
+        "file": "images/asset/karyaSeni/karya-041.jpg"
+    },
+    {
+        "id_karya": 42,
+        "judul_karya": "Self-Portrait",
+        "file": "images/asset/karyaSeni/karya-042.jpg"
+    },
+    {
+        "id_karya": 43,
+        "judul_karya": "Hope II",
+        "file": "images/asset/karyaSeni/karya-043.jpg"
+    },
+    {
+        "id_karya": 44,
+        "judul_karya": "Face Mask Series",
+        "file": "images/asset/karyaSeni/karya-044.jpg"
+    },
+    {
+        "id_karya": 45,
+        "judul_karya": "Walking Column",
+        "file": "images/asset/karyaSeni/karya-045.jpg"
+    },
+    {
+        "id_karya": 46,
+        "judul_karya": "Still Life with Oranges",
+        "file": "images/asset/karyaSeni/karya-046.jpg"
+    },
+    {
+        "id_karya": 47,
+        "judul_karya": "Ocean",
+        "file": "images/asset/karyaSeni/karya-047.jpg"
+    },
+    {
+        "id_karya": 48,
+        "judul_karya": "Cerita Rakyat",
+        "file": "images/asset/karyaSeni/karya-048.jpg"
+    },
+    {
+        "id_karya": 49,
+        "judul_karya": "Infinity Dots",
+        "file": "images/asset/karyaSeni/karya-049.jpg"
+    },
+    {
+        "id_karya": 50,
+        "judul_karya": "Mylar Blanket",
+        "file": "images/asset/karyaSeni/karya-050.jpg"
+    },
+    {
+        "id_karya": 51,
+        "judul_karya": "Water Lilies, Morning",
+        "file": "images/asset/karyaSeni/karya-051.jpg"
+    },
+    {
+        "id_karya": 52,
+        "judul_karya": "The Siesta",
+        "file": "images/asset/karyaSeni/karya-052.jpg"
+    },
+    {
+        "id_karya": 53,
+        "judul_karya": "Irises",
+        "file": "images/asset/karyaSeni/karya-053.jpg"
+    },
+    {
+        "id_karya": 54,
+        "judul_karya": "La Source",
+        "file": "images/asset/karyaSeni/karya-054.jpg"
+    },
+    {
+        "id_karya": 55,
+        "judul_karya": "Dance Class",
+        "file": "images/asset/karyaSeni/karya-055.jpg"
+    },
+    {
+        "id_karya": 56,
+        "judul_karya": "Standing Woman",
+        "file": "images/asset/karyaSeni/karya-056.jpg"
+    },
+    {
+        "id_karya": 57,
+        "judul_karya": "The Dream",
+        "file": "images/asset/karyaSeni/karya-057.jpg"
+    },
+    {
+        "id_karya": 58,
+        "judul_karya": "Guernica Sketch",
+        "file": "images/asset/karyaSeni/karya-058.jpg"
+    },
+    {
+        "id_karya": 59,
+        "judul_karya": "Reclining Figure",
+        "file": "images/asset/karyaSeni/karya-059.jpg"
+    },
+    {
+        "id_karya": 60,
+        "judul_karya": "Digital Sunset",
+        "file": "images/asset/karyaSeni/karya-060.jpg"
+    },
+    {
+        "id_karya": 61,
+        "judul_karya": "Silent Threads",
+        "file": "images/asset/karyaSeni/karya-061.jpg"
+    },
+    {
+        "id_karya": 62,
+        "judul_karya": "Time Collage",
+        "file": "images/asset/karyaSeni/karya-062.jpg"
+    },
+    {
+        "id_karya": 63,
+        "judul_karya": "Echo Chamber",
+        "file": "images/asset/karyaSeni/karya-063.jpg"
+    },
+    {
+        "id_karya": 64,
+        "judul_karya": "Floral Motion",
+        "file": "images/asset/karyaSeni/karya-064.jpg"
+    },
+    {
+        "id_karya": 65,
+        "judul_karya": "Glitched Reality",
+        "file": "images/asset/karyaSeni/karya-065.jpg"
+    },
+    {
+        "id_karya": 66,
+        "judul_karya": "Untitled #97",
+        "file": "images/asset/karyaSeni/karya-066.jpg"
+    },
+    {
+        "id_karya": 67,
+        "judul_karya": "Double Exposure",
+        "file": "images/asset/karyaSeni/karya-067.jpg"
+    },
+    {
+        "id_karya": 68,
+        "judul_karya": "Urban Myth",
+        "file": "images/asset/karyaSeni/karya-068.jpg"
+    },
+    {
+        "id_karya": 69,
+        "judul_karya": "Sky Weavers",
+        "file": "images/asset/karyaSeni/karya-069.jpg"
+    },
+    {
+        "id_karya": 70,
+        "judul_karya": "Echoes of Java",
+        "file": "images/asset/karyaSeni/karya-070.jpg"
+    },
+    {
+        "id_karya": 71,
+        "judul_karya": "Weaving Rain",
+        "file": "images/asset/karyaSeni/karya-071.jpg"
+    },
+    {
+        "id_karya": 72,
+        "judul_karya": "No Title (Color Bars)",
+        "file": "images/asset/karyaSeni/karya-072.jpg"
+    },
+    {
+        "id_karya": 73,
+        "judul_karya": "Batik Breeze",
+        "file": "images/asset/karyaSeni/karya-073.jpg"
+    },
+    {
+        "id_karya": 74,
+        "judul_karya": "NFT Lightbox",
+        "file": "images/asset/karyaSeni/karya-074.jpg"
+    },
+    {
+        "id_karya": 75,
+        "judul_karya": "Crimson Sea",
+        "file": "images/asset/karyaSeni/karya-075.jpg"
+    },
+    {
+        "id_karya": 76,
+        "judul_karya": "The Thinker Mini",
+        "file": "images/asset/karyaSeni/karya-076.jpg"
+    },
+    {
+        "id_karya": 77,
+        "judul_karya": "Self-Portrait in Red",
+        "file": "images/asset/karyaSeni/karya-077.jpg"
+    },
+    {
+        "id_karya": 78,
+        "judul_karya": "Blue Period Composition",
+        "file": "images/asset/karyaSeni/karya-078.jpg"
+    },
+    {
+        "id_karya": 79,
+        "judul_karya": "Performance Mirror",
+        "file": "images/asset/karyaSeni/karya-079.jpg"
+    },
+    {
+        "id_karya": 80,
+        "judul_karya": "Body as Canvas",
+        "file": "images/asset/karyaSeni/karya-080.jpg"
+    },
+    {
+        "id_karya": 81,
+        "judul_karya": "Animated Revolt",
+        "file": "images/asset/karyaSeni/karya-081.jpg"
+    },
+    {
+        "id_karya": 82,
+        "judul_karya": "Quilt of Memories",
+        "file": "images/asset/karyaSeni/karya-082.jpg"
+    },
+    {
+        "id_karya": 83,
+        "judul_karya": "Tenun Tales",
+        "file": "images/asset/karyaSeni/karya-083.jpg"
+    },
+    {
+        "id_karya": 84,
+        "judul_karya": "Rainforest Lines",
+        "file": "images/asset/karyaSeni/karya-084.jpg"
+    },
+    {
+        "id_karya": 85,
+        "judul_karya": "Morning Batik",
+        "file": "images/asset/karyaSeni/karya-085.jpg"
+    },
+    {
+        "id_karya": 86,
+        "judul_karya": "AI Landscape",
+        "file": "images/asset/karyaSeni/karya-086.jpg"
+    },
+    {
+        "id_karya": 87,
+        "judul_karya": "Silent Motion",
+        "file": "images/asset/karyaSeni/karya-087.jpg"
+    },
+    {
+        "id_karya": 88,
+        "judul_karya": "Steel Pulse",
+        "file": "images/asset/karyaSeni/karya-088.jpg"
+    },
+    {
+        "id_karya": 89,
+        "judul_karya": "Broken Pixels",
+        "file": "images/asset/karyaSeni/karya-089.jpg"
+    },
+    {
+        "id_karya": 90,
+        "judul_karya": "Performance X",
+        "file": "images/asset/karyaSeni/karya-090.jpg"
+    },
+    {
+        "id_karya": 91,
+        "judul_karya": "Island Rhythm",
+        "file": "images/asset/karyaSeni/karya-091.jpg"
+    },
+    {
+        "id_karya": 92,
+        "judul_karya": "Analog Light",
+        "file": "images/asset/karyaSeni/karya-092.jpg"
+    },
+    {
+        "id_karya": 93,
+        "judul_karya": "Fotomontase Dreams",
+        "file": "images/asset/karyaSeni/karya-093.jpg"
+    },
+    {
+        "id_karya": 94,
+        "judul_karya": "Threads of Gold",
+        "file": "images/asset/karyaSeni/karya-094.jpg"
+    },
+    {
+        "id_karya": 95,
+        "judul_karya": "Dream in Indigo",
+        "file": "images/asset/karyaSeni/karya-095.jpg"
+    },
+    {
+        "id_karya": 96,
+        "judul_karya": "Twilight NFT",
+        "file": "images/asset/karyaSeni/karya-096.jpg"
+    },
+    {
+        "id_karya": 97,
+        "judul_karya": "Metropolis",
+        "file": "images/asset/karyaSeni/karya-097.jpg"
+    },
+    {
+        "id_karya": 98,
+        "judul_karya": "Rock Flow",
+        "file": "images/asset/karyaSeni/karya-098.jpg"
+    },
+    {
+        "id_karya": 99,
+        "judul_karya": "Lost in Light",
+        "file": "images/asset/karyaSeni/karya-099.jpg"
+    },
+    {
+        "id_karya": 100,
+        "judul_karya": "Jungle Quilt",
+        "file": "images/asset/karyaSeni/karya-100.jpg"
+    },
+    {
+        "id_karya": 101,
+        "judul_karya": "Untitled (Skull)",
+        "file": "images/asset/karyaSeni/karya-101.jpg"
+    },
+    {
+        "id_karya": 102,
+        "judul_karya": "The Kiss",
+        "file": "images/asset/karyaSeni/karya-102.jpg"
+    },
+    {
+        "id_karya": 103,
+        "judul_karya": "The Thinker",
+        "file": "images/asset/karyaSeni/karya-103.jpg"
+    },
+    {
+        "id_karya": 104,
+        "judul_karya": "Spider",
+        "file": "images/asset/karyaSeni/karya-104.jpg"
+    },
+    {
+        "id_karya": 105,
+        "judul_karya": "John Lennon, NYC",
+        "file": "images/asset/karyaSeni/karya-105.jpg"
+    },
+    {
+        "id_karya": 106,
+        "judul_karya": "Workers",
+        "file": "images/asset/karyaSeni/karya-106.jpg"
+    },
+    {
+        "id_karya": 107,
+        "judul_karya": "The Merge",
+        "file": "images/asset/karyaSeni/karya-107.jpg"
+    },
+    {
+        "id_karya": 108,
+        "judul_karya": "Mars House",
+        "file": "images/asset/karyaSeni/karya-108.jpg"
+    },
+    {
+        "id_karya": 109,
+        "judul_karya": "Tar Beach",
+        "file": "images/asset/karyaSeni/karya-109.jpg"
+    },
+    {
+        "id_karya": 110,
+        "judul_karya": "Pillar of Inquiry",
+        "file": "images/asset/karyaSeni/karya-110.jpg"
+    },
+    {
+        "id_karya": 111,
+        "judul_karya": "United States I-IV",
+        "file": "images/asset/karyaSeni/karya-111.jpg"
+    },
+    {
+        "id_karya": 112,
+        "judul_karya": "Kiss",
+        "file": "images/asset/karyaSeni/karya-112.jpg"
+    },
+    {
+        "id_karya": 113,
+        "judul_karya": "Water Lilies",
+        "file": "images/asset/karyaSeni/karya-113.jpg"
+    },
+    {
+        "id_karya": 114,
+        "judul_karya": "Bird in Space",
+        "file": "images/asset/karyaSeni/karya-114.jpg"
+    },
+    {
+        "id_karya": 115,
+        "judul_karya": "Rayograph",
+        "file": "images/asset/karyaSeni/karya-115.jpg"
+    },
+    {
+        "id_karya": 116,
+        "judul_karya": "Machine Hallucination",
+        "file": "images/asset/karyaSeni/karya-116.jpg"
+    },
+    {
+        "id_karya": 117,
+        "judul_karya": "Soundsuit (Red)",
+        "file": "images/asset/karyaSeni/karya-117.jpg"
+    },
+    {
+        "id_karya": 118,
+        "judul_karya": "One Year Performance (Time Clock Piece)",
+        "file": "images/asset/karyaSeni/karya-118.jpg"
+    },
+    {
+        "id_karya": 119,
+        "judul_karya": "Mountains and Sea",
+        "file": "images/asset/karyaSeni/karya-119.jpg"
+    },
+    {
+        "id_karya": 120,
+        "judul_karya": "House",
+        "file": "images/asset/karyaSeni/karya-120.jpg"
+    },
+    {
+        "id_karya": 121,
+        "judul_karya": "Self-Portrait",
+        "file": "images/asset/karyaSeni/karya-121.jpg"
+    },
+    {
+        "id_karya": 122,
+        "judul_karya": "Portrait of Adele Bloch-Bauer I",
+        "file": "images/asset/karyaSeni/karya-122.jpg"
+    },
+    {
+        "id_karya": 123,
+        "judul_karya": "The Gates of Hell",
+        "file": "images/asset/karyaSeni/karya-123.jpg"
+    },
+    {
+        "id_karya": 124,
+        "judul_karya": "Crouching Spider",
+        "file": "images/asset/karyaSeni/karya-124.jpg"
+    },
+    {
+        "id_karya": 125,
+        "judul_karya": "Demi Moore",
+        "file": "images/asset/karyaSeni/karya-125.jpg"
+    },
+    {
+        "id_karya": 126,
+        "judul_karya": "Genesis",
+        "file": "images/asset/karyaSeni/karya-126.jpg"
+    },
+    {
+        "id_karya": 127,
+        "judul_karya": "Human One",
+        "file": "images/asset/karyaSeni/karya-127.jpg"
+    },
+    {
+        "id_karya": 128,
+        "judul_karya": "Continuum",
+        "file": "images/asset/karyaSeni/karya-128.jpg"
+    },
+    {
+        "id_karya": 129,
+        "judul_karya": "Ring Around the Rosie",
+        "file": "images/asset/karyaSeni/karya-129.jpg"
+    },
+    {
+        "id_karya": 130,
+        "judul_karya": "Soft Barrier",
+        "file": "images/asset/karyaSeni/karya-130.jpg"
+    },
+    {
+        "id_karya": 131,
+        "judul_karya": "The Mumble Song",
+        "file": "images/asset/karyaSeni/karya-131.jpg"
+    },
+    {
+        "id_karya": 132,
+        "judul_karya": "The Artist Is Present",
+        "file": "images/asset/karyaSeni/karya-132.jpg"
+    },
+    {
+        "id_karya": 133,
+        "judul_karya": "Japanese Bridge",
+        "file": "images/asset/karyaSeni/karya-133.jpg"
+    },
+    {
+        "id_karya": 134,
+        "judul_karya": "Endless Column",
+        "file": "images/asset/karyaSeni/karya-134.jpg"
+    },
+    {
+        "id_karya": 135,
+        "judul_karya": "Tears",
+        "file": "images/asset/karyaSeni/karya-135.jpg"
+    },
+    {
+        "id_karya": 136,
+        "judul_karya": "Quantum Memories",
+        "file": "images/asset/karyaSeni/karya-136.jpg"
+    },
+    {
+        "id_karya": 137,
+        "judul_karya": "Rescue",
+        "file": "images/asset/karyaSeni/karya-137.jpg"
+    },
+    {
+        "id_karya": 138,
+        "judul_karya": "Rhythm 0",
+        "file": "images/asset/karyaSeni/karya-138.jpg"
+    },
+    {
+        "id_karya": 139,
+        "judul_karya": "The Bay",
+        "file": "images/asset/karyaSeni/karya-139.jpg"
+    },
+    {
+        "id_karya": 140,
+        "judul_karya": "Ghost",
+        "file": "images/asset/karyaSeni/karya-140.jpg"
+    },
+    {
+        "id_karya": 141,
+        "judul_karya": "The Persistence of Memory",
+        "file": "images/asset/karyaSeni/karya-141.jpg"
+    },
+    {
+        "id_karya": 142,
+        "judul_karya": "Lobster Telephone",
+        "file": "images/asset/karyaSeni/karya-142.jpg"
+    },
+    {
+        "id_karya": 143,
+        "judul_karya": "Campbell's Soup Cans",
+        "file": "images/asset/karyaSeni/karya-143.jpg"
+    },
+    {
+        "id_karya": 144,
+        "judul_karya": "Gold Marilyn Monroe",
+        "file": "images/asset/karyaSeni/karya-144.jpg"
+    },
+    {
+        "id_karya": 145,
+        "judul_karya": "The dog",
+        "file": "images/asset/karyaSeni/karya-145.jpg"
+    },
+    {
+        "id_karya": 146,
+        "judul_karya": "Rabbit",
+        "file": "images/asset/karyaSeni/karya-146.jpg"
+    },
+    {
+        "id_karya": 147,
+        "judul_karya": "Untitled Film Still #21",
+        "file": "images/asset/karyaSeni/karya-147.jpg"
+    },
+    {
+        "id_karya": 148,
+        "judul_karya": "Untitled #96",
+        "file": "images/asset/karyaSeni/karya-148.jpg"
+    },
+    {
+        "id_karya": 149,
+        "judul_karya": "Everydays: The First 5000 Days",
+        "file": "images/asset/karyaSeni/karya-149.jpg"
+    },
+    {
+        "id_karya": 150,
+        "judul_karya": "Human One",
+        "file": "images/asset/karyaSeni/karya-150.jpg"
+    },
+    {
+        "id_karya": 151,
+        "judul_karya": "Man's Cloth",
+        "file": "images/asset/karyaSeni/karya-151.jpg"
+    },
+    {
+        "id_karya": 152,
+        "judul_karya": "Earth Developing More Roots",
+        "file": "images/asset/karyaSeni/karya-152.jpg"
+    },
+    {
+        "id_karya": 153,
+        "judul_karya": "The Artist Is Present",
+        "file": "images/asset/karyaSeni/karya-153.jpg"
+    },
+    {
+        "id_karya": 154,
+        "judul_karya": "Rhythm 0",
+        "file": "images/asset/karyaSeni/karya-154.jpg"
+    },
+    {
+        "id_karya": 155,
+        "judul_karya": "Potret Diri",
+        "file": "images/asset/karyaSeni/karya-155.jpg"
+    },
+    {
+        "id_karya": 156,
+        "judul_karya": "Bali Life",
+        "file": "images/asset/karyaSeni/karya-156.jpg"
+    },
+    {
+        "id_karya": 157,
+        "judul_karya": "Red Canna",
+        "file": "images/asset/karyaSeni/karya-157.jpg"
+    },
+    {
+        "id_karya": 158,
+        "judul_karya": "Jimson Weed/White Flower No.1",
+        "file": "images/asset/karyaSeni/karya-158.jpg"
+    },
+    {
+        "id_karya": 159,
+        "judul_karya": "The Dance",
+        "file": "images/asset/karyaSeni/karya-159.jpg"
+    },
+    {
+        "id_karya": 160,
+        "judul_karya": "Woman with a Hat",
+        "file": "images/asset/karyaSeni/karya-160.jpg"
+    },
+    {
+        "id_karya": 161,
+        "judul_karya": "Digital Drift",
+        "file": "images/asset/karyaSeni/karya-161.jpg"
+    },
+    {
+        "id_karya": 162,
+        "judul_karya": "Tapestry of Motion",
+        "file": "images/asset/karyaSeni/karya-162.jpg"
+    },
+    {
+        "id_karya": 163,
+        "judul_karya": "Void and Bloom",
+        "file": "images/asset/karyaSeni/karya-163.jpg"
+    },
+    {
+        "id_karya": 164,
+        "judul_karya": "Echoes of Light",
+        "file": "images/asset/karyaSeni/karya-164.jpg"
+    },
+    {
+        "id_karya": 165,
+        "judul_karya": "Reclaim",
+        "file": "images/asset/karyaSeni/karya-165.jpg"
+    },
+    {
+        "id_karya": 166,
+        "judul_karya": "Cosmic Threads",
+        "file": "images/asset/karyaSeni/karya-166.jpg"
+    },
+    {
+        "id_karya": 167,
+        "judul_karya": "Temporal Fracture",
+        "file": "images/asset/karyaSeni/karya-167.jpg"
+    },
+    {
+        "id_karya": 168,
+        "judul_karya": "Serenity in Blue",
+        "file": "images/asset/karyaSeni/karya-168.jpg"
+    },
+    {
+        "id_karya": 169,
+        "judul_karya": "Frequency Pattern",
+        "file": "images/asset/karyaSeni/karya-169.jpg"
+    },
+    {
+        "id_karya": 170,
+        "judul_karya": "Layers of Self",
+        "file": "images/asset/karyaSeni/karya-170.jpg"
+    },
+    {
+        "id_karya": 171,
+        "judul_karya": "Kaleidoscape",
+        "file": "images/asset/karyaSeni/karya-171.jpg"
+    },
+    {
+        "id_karya": 172,
+        "judul_karya": "Pulse",
+        "file": "images/asset/karyaSeni/karya-172.jpg"
+    },
+    {
+        "id_karya": 173,
+        "judul_karya": "Whisper of Trees",
+        "file": "images/asset/karyaSeni/karya-173.jpg"
+    },
+    {
+        "id_karya": 174,
+        "judul_karya": "Fragmented Vision",
+        "file": "images/asset/karyaSeni/karya-174.jpg"
+    },
+    {
+        "id_karya": 175,
+        "judul_karya": "Flowing Code",
+        "file": "images/asset/karyaSeni/karya-175.jpg"
+    },
+    {
+        "id_karya": 176,
+        "judul_karya": "The Void Garden",
+        "file": "images/asset/karyaSeni/karya-176.jpg"
+    },
+    {
+        "id_karya": 177,
+        "judul_karya": "Glitch Bloom",
+        "file": "images/asset/karyaSeni/karya-177.jpg"
+    },
+    {
+        "id_karya": 178,
+        "judul_karya": "Papermoon Dream",
+        "file": "images/asset/karyaSeni/karya-178.jpg"
+    },
+    {
+        "id_karya": 179,
+        "judul_karya": "The Wind Remembers",
+        "file": "images/asset/karyaSeni/karya-179.jpg"
+    },
+    {
+        "id_karya": 180,
+        "judul_karya": "Melting Algorithm",
+        "file": "images/asset/karyaSeni/karya-180.jpg"
+    },
+    {
+        "id_karya": 181,
+        "judul_karya": "Seafoam Silence",
+        "file": "images/asset/karyaSeni/karya-181.jpg"
+    },
+    {
+        "id_karya": 182,
+        "judul_karya": "Industrial Spirit",
+        "file": "images/asset/karyaSeni/karya-182.jpg"
+    },
+    {
+        "id_karya": 183,
+        "judul_karya": "Painted Code",
+        "file": "images/asset/karyaSeni/karya-183.jpg"
+    },
+    {
+        "id_karya": 184,
+        "judul_karya": "Ghost Pattern",
+        "file": "images/asset/karyaSeni/karya-184.jpg"
+    },
+    {
+        "id_karya": 185,
+        "judul_karya": "Sonic Field",
+        "file": "images/asset/karyaSeni/karya-185.jpg"
+    },
+    {
+        "id_karya": 186,
+        "judul_karya": "Blue Reverie",
+        "file": "images/asset/karyaSeni/karya-186.jpg"
+    },
+    {
+        "id_karya": 187,
+        "judul_karya": "Time Patchwork",
+        "file": "images/asset/karyaSeni/karya-187.jpg"
+    },
+    {
+        "id_karya": 188,
+        "judul_karya": "Shadowlight",
+        "file": "images/asset/karyaSeni/karya-188.jpg"
+    },
+    {
+        "id_karya": 189,
+        "judul_karya": "Reflection Mesh",
+        "file": "images/asset/karyaSeni/karya-189.jpg"
+    },
+    {
+        "id_karya": 190,
+        "judul_karya": "Tactile Memory",
+        "file": "images/asset/karyaSeni/karya-190.jpg"
+    },
+    {
+        "id_karya": 191,
+        "judul_karya": "Neon Horizon",
+        "file": "images/asset/karyaSeni/karya-191.jpg"
+    },
+    {
+        "id_karya": 192,
+        "judul_karya": "Memory Stitch",
+        "file": "images/asset/karyaSeni/karya-192.jpg"
+    },
+    {
+        "id_karya": 193,
+        "judul_karya": "Frozen Motion",
+        "file": "images/asset/karyaSeni/karya-193.jpg"
+    },
+    {
+        "id_karya": 194,
+        "judul_karya": "Fractal Bloom",
+        "file": "images/asset/karyaSeni/karya-194.jpg"
+    },
+    {
+        "id_karya": 195,
+        "judul_karya": "Canvas of Noise",
+        "file": "images/asset/karyaSeni/karya-195.jpg"
+    },
+    {
+        "id_karya": 196,
+        "judul_karya": "Threaded Echo",
+        "file": "images/asset/karyaSeni/karya-196.jpg"
+    },
+    {
+        "id_karya": 197,
+        "judul_karya": "Sculpted Silence",
+        "file": "images/asset/karyaSeni/karya-197.jpg"
+    },
+    {
+        "id_karya": 198,
+        "judul_karya": "Lightscapes",
+        "file": "images/asset/karyaSeni/karya-198.jpg"
+    },
+    {
+        "id_karya": 199,
+        "judul_karya": "Digital Ancestry",
+        "file": "images/asset/karyaSeni/karya-199.jpg"
+    },
+    {
+        "id_karya": 200,
+        "judul_karya": "Echo Weave",
+        "file": "images/asset/karyaSeni/karya-200.jpg"
+    }
+]
